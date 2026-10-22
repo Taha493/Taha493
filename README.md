@@ -120,11 +120,9 @@ A few projects and ideas I'm building or have worked on. Open the repositories f
 
 </div>
 
-> beyond_the_keyboard
-- ⚽ Football and sports
-- ♟️ Chess, strategy, and problem-solving
-- 🧪 Trying ideas, testing assumptions, and learning by building
+
 > let's_connect
+
 Have an interesting idea, a useful project, or an opportunity to collaborate? I'd be happy to connect.
 <div align="center">
 
