@@ -28,7 +28,7 @@
 </div>
 
 
-I'm Taha Mahmood — an AI Engineer | Full-Stack Developer and Computer Science student at FAST-NUCES, Islamabad, interested in building software that makes complex things simpler.
+I'm Taha Mahmood — a Computer Scientist from FAST-NUCES, Islamabad | Full-Stack AI Developer, interested in building software that makes complex things simpler.
 
 My work sits at the intersection of AI and application development — from document intelligence and retrieval-augmented generation to browser tools and full-stack products. I enjoy taking an idea from a rough problem statement to something people can actually use.
 - 🧠 Currently exploring: LLM applications, RAG pipelines, NLP, and computer vision
@@ -56,12 +56,12 @@ AI, Data & Developer Tools
 <br />
 
 Area	Focus
+Frontend engineering	React interfaces, responsive layouts, usability-focused UI
+Backend engineering	REST APIs, Python services, Node.js integrations
+Data & infrastructure	SQL, PostgreSQL, vector-search workflows, Linux development
 Generative AI	LLM-powered applications, prompt design, model/API integration
 Retrieval & documents	RAG concepts, document parsing, embeddings and information retrieval
 NLP & Computer Vision	Text extraction, layout-aware document processing, image-based analysis
-Backend engineering	REST APIs, Python services, Node.js integrations
-Frontend engineering	React interfaces, responsive layouts, usability-focused UI
-Data & infrastructure	SQL, PostgreSQL, vector-search workflows, Linux development
 
 
 </details>
@@ -118,10 +118,9 @@ A few projects and ideas I'm building or have worked on. Open the repositories f
 <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha493&theme=vue" alt="GitHub profile summary and contribution activity" />
 
 </div>
-
-
-
+<div align="center">
 Have an interesting idea, a useful project, or an opportunity to collaborate? I'd be happy to connect.
+</div>
 <div align="center">
 
 
