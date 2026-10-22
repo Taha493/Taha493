@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bbf7d0,45:c4b5fd,100:a7f3d0&height=190&section=header&text=Taha%20Mahmood&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Computer %20Scientist%20%7C%20Building%20Useful%20Things&descAlignY=58&descSize=16" alt="Taha Mahmood — Computer Scientist" />
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:bbf7d0,45:c4b5fd,100:a7f3d0&height=190&section=header&text=Taha%20Mahmood&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Computer%20Scientist%20%7C%20Building%20Useful%20Things&descAlignY=58&descSize=16"
+  alt="Taha Mahmood — Computer Scientist"
+/>
+
 
 <a href="https://github.com/Taha493">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=86EFAC&center=true&vCenter=true&width=750&lines=Turning+ideas+into+working+software;Building+AI-powered+applications;Exploring+LLMs%2C+RAG%2C+NLP+%26+Computer+Vision;Full-stack+developer+with+an+AI+mindset" alt="Animated introduction" />
