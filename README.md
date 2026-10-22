@@ -38,7 +38,6 @@ My work sits at the intersection of AI and application development — from docu
 - 📍 Based in: Islamabad, Pakistan
 I care about the problem first, the technology second, and the details all the way through.
 
-> tech-stack
 <div align="center">
 
 Languages
@@ -67,7 +66,7 @@ Data & infrastructure	SQL, PostgreSQL, vector-search workflows, Linux developmen
 
 </details>
 
-> featured-projects
+
 A few projects and ideas I'm building or have worked on. Open the repositories for the implementation details.
 <table>
   <tr>
@@ -105,7 +104,7 @@ A few projects and ideas I'm building or have worked on. Open the repositories f
   <a href="https://github.com/Taha493?tab=repositories"><b>Browse all repositories →</b></a>
 </div>
 
-> github-dashboard
+
 <div align="center">
 
 <a href="https://github.com/Taha493">
@@ -121,7 +120,6 @@ A few projects and ideas I'm building or have worked on. Open the repositories f
 </div>
 
 
-> let's_connect
 
 Have an interesting idea, a useful project, or an opportunity to collaborate? I'd be happy to connect.
 <div align="center">
