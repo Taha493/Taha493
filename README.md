@@ -22,7 +22,6 @@
 
 </div>
 
-> whoami
 <div align="center">
   <img src="https://img.shields.io/badge/Palette-Light%20Green-84cc16?style=flat-square" alt="Light green palette" />
   <img src="https://img.shields.io/badge/Accent-Lavender-8b5cf6?style=flat-square" alt="Lavender accent" />
@@ -110,14 +109,14 @@ A few projects and ideas I'm building or have worked on. Open the repositories f
 <div align="center">
 
 <a href="https://github.com/Taha493">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Taha493&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=vue" alt="GitHub statistics" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Taha493&theme=vue" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Taha493">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha493&layout=compact&hide_border=true&langs_count=8&theme=vue" alt="Most used programming languages" />
+  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taha493&theme=vue" alt="Most used programming languages" />
 </a>
 
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha493&bg_color=ffffff&color=6d28d9&line=84cc16&point=8b5cf6&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Taha493&theme=vue" alt="GitHub profile summary and contribution activity" />
 
 </div>
 
