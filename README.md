@@ -31,7 +31,7 @@
 I'm Taha Mahmood — a Computer Scientist from FAST-NUCES, Islamabad | Full-Stack AI Developer, interested in building software that makes complex things simpler.
 
 My work sits at the intersection of AI and application development — from document intelligence and retrieval-augmented generation to browser tools and full-stack products. I enjoy taking an idea from a rough problem statement to something people can actually use.
-- 🧠 Currently exploring: LLM applications, RAG pipelines, NLP, and computer vision
+- 🧠 Currently exploring: LLM applications, efficient AI workflows, and scalable development tools for faster, smarter results with less token usage.
 - 🛠️ I enjoy: Building practical products, integrating AI into workflows, and solving real user problems
 - 🌱 Always learning: Better engineering practices, system design, and reliable AI applications
 - 🌐 Portfolio: taha-mahmood.netlify.com
