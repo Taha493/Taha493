@@ -1,33 +1,41 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,100:06b6d4&height=190&section=header&text=Taha%20Mahmood&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Software%20Development%20%7C%20Building%20Useful%20Things&descAlignY=58&descSize=16" alt="Taha Mahmood — AI and software development" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bbf7d0,45:c4b5fd,100:a7f3d0&height=190&section=header&text=Taha%20Mahmood&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=AI%20%7C%20Software%20Development%20%7C%20Building%20Useful%20Things&descAlignY=58&descSize=16" alt="Taha Mahmood — AI and software development" />
 
 <a href="https://github.com/Taha493">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=22D3EE&center=true&vCenter=true&width=750&lines=Turning+ideas+into+working+software;Building+AI-powered+applications;Exploring+LLMs%2C+RAG%2C+NLP+%26+Computer+Vision;Full-stack+developer+with+an+AI+mindset" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=86EFAC&center=true&vCenter=true&width=750&lines=Turning+ideas+into+working+software;Building+AI-powered+applications;Exploring+LLMs%2C+RAG%2C+NLP+%26+Computer+Vision;Full-stack+developer+with+an+AI+mindset" alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://github.com/Taha493?tab=followers"><img src="https://img.shields.io/github/followers/Taha493?label=Followers&style=for-the-badge&logo=github&labelColor=111827&color=06b6d4" alt="GitHub followers" /></a>
+  <a href="https://github.com/Taha493?tab=followers"><img src="https://img.shields.io/github/followers/Taha493?label=Followers&style=for-the-badge&logo=github&labelColor=111827&color=84cc16" alt="GitHub followers" /></a>
   <a href="https://github.com/Taha493?tab=repositories"><img src="https://img.shields.io/badge/Public%20Projects-Explore-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Taha493&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Taha493&style=for-the-badge&color=84cc16&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <p>
   <a href="https://github.com/Taha493"><img src="https://img.shields.io/badge/GitHub-Taha493-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/taha-mahmood-zahid"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:taha.tsf901@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://taha-mahmood.netlify.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-84cc16?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio website" /></a>
 </p>
 
 </div>
 
 > whoami
-I'm Taha Mahmood, a Computer Science student at FAST-NUCES, Islamabad, interested in building software that makes complex things simpler.
+<div align="center">
+  <img src="https://img.shields.io/badge/Palette-Light%20Green-84cc16?style=flat-square" alt="Light green palette" />
+  <img src="https://img.shields.io/badge/Accent-Lavender-8b5cf6?style=flat-square" alt="Lavender accent" />
+</div>
+
+
+I'm Taha Mahmood — an AI Engineer | Full-Stack Developer and Computer Science student at FAST-NUCES, Islamabad, interested in building software that makes complex things simpler.
 
 My work sits at the intersection of AI and application development — from document intelligence and retrieval-augmented generation to browser tools and full-stack products. I enjoy taking an idea from a rough problem statement to something people can actually use.
 - 🧠 Currently exploring: LLM applications, RAG pipelines, NLP, and computer vision
 - 🛠️ I enjoy: Building practical products, integrating AI into workflows, and solving real user problems
 - 🌱 Always learning: Better engineering practices, system design, and reliable AI applications
+- 🌐 Portfolio: taha-mahmood.netlify.com
 - 📍 Based in: Islamabad, Pakistan
 I care about the problem first, the technology second, and the details all the way through.
 
@@ -102,14 +110,14 @@ A few projects and ideas I'm building or have worked on. Open the repositories f
 <div align="center">
 
 <a href="https://github.com/Taha493">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Taha493&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Taha493&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=vue" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Taha493">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha493&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Most used programming languages" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha493&layout=compact&hide_border=true&langs_count=8&theme=vue" alt="Most used programming languages" />
 </a>
 
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha493&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha493&bg_color=ffffff&color=6d28d9&line=84cc16&point=8b5cf6&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
@@ -123,12 +131,13 @@ Have an interesting idea, a useful project, or an opportunity to collaborate? I'
 
 
 <a href="https://github.com/Taha493"><img src="https://img.shields.io/badge/Follow%20my%20work-181717?style=for-the-badge&logo=github" alt="Follow on GitHub" /></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL_ADDRESS"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://linkedin.com/in/taha-mahmood-zahid"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:taha.tsf901@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
+<a href="https://taha-mahmood.netlify.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-84cc16?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio website" /></a>
 
 
 
 Thanks for stopping by! If something here catches your eye, explore a repository or say hello.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:312e81,100:0f172a&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a7f3d0,50:c4b5fd,100:bbf7d0&height=100&section=footer" alt="" />
 
 </div>
